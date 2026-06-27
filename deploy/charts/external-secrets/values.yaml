@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/external-secrets/external-secrets
+  repository: dependabot/go_modules/github.com/onsi/ginkgo-1.15.1
   pullPolicy: IfNotPresent
   # -- The image tag to use. The default is the chart appVersion.
   tag: ""
